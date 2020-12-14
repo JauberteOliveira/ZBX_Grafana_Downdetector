@@ -44,4 +44,3 @@ Edite o arquivo downdetectorlist.list e altere para 1 os sites/host que deseja m
 0;caixa;Caixa Econômica Federal
 1;caixa;Caixa Econômica Federal
 ```
-#### Meterial extraido e adicionado mais alguns icons através de https://github.com/remontti/downdetector_zbx_grafana
